@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "name": "Adi",
+    "address": "Jalan Pemrograman 123, Jakarta",
+    "job": "Programmer PHP",
+    "reason": "Saya memilih bahasa Golang karena performanya yang cepat dan efisien dalam pengembangan aplikasi web."
+  },
+  {
+    "id": 2,
+    "name": "Budi",
+    "address": "Jalan Kode 456, Surabaya",
+    "job": "Programmer Java",
+    "reason": "Saya tertarik mempelajari Golang karena kemampuan konkurensi dan pemrogramannya yang sederhana."
+  },
+  {
+    "id": 3,
+    "name": "Cindy",
+    "address": "Jalan Algoritma 789, Bandung",
+    "job": "Programmer Python",
+    "reason": "Saya ingin menggunakan Golang untuk pengolahan data besar dan pemrograman sistem."
+  },
+  {
+    "id": 4,
+    "name": "Dewi",
+    "address": "Jalan Teknologi 101, Yogyakarta",
+    "job": "Programmer C++",
+    "reason": "Golang adalah pilihan saya karena performanya dalam pengembangan aplikasi server."
+  },
+  {
+    "id": 5,
+    "name": "Eko",
+    "address": "Jalan Koding 222, Semarang",
+    "job": "Programmer JavaScript",
+    "reason": "Saya memilih Golang karena ingin menguasai bahasa pemrograman yang modern dan inovatif."
+  },
+  {
+    "id": 6,
+    "name": "Fita",
+    "address": "Jalan Data 333, Medan",
+    "job": "Programmer Ruby",
+    "reason": "Saya ingin memahami Golang untuk mengembangkan aplikasi berkinerja tinggi dengan mudah."
+  },
+  {
+    "id": 7,
+    "name": "Gilang",
+    "address": "Jalan Cloud 444, Makassar",
+    "job": "Programmer Swift",
+    "reason": "Saya tertarik dengan kecepatan dan kemudahan Golang dalam mengembangkan aplikasi mobile."
+  },
+  {
+    "id": 8,
+    "name": "Hani",
+    "address": "Jalan API 555, Palembang",
+    "job": "Programmer C#",
+    "reason": "Saya melihat Golang sebagai pilihan yang bagus untuk mengembangkan aplikasi desktop yang handal."
+  },
+  {
+    "id": 9,
+    "name": "Indra",
+    "address": "Jalan Backend 666, Semarang",
+    "job": "Programmer Kotlin",
+    "reason": "Saya ingin menggunakan Golang sebagai alternatif kuat untuk pengembangan backend aplikasi."
+  },
+  {
+    "id": 10,
+    "name": "Joko",
+    "address": "Jalan Scripting 777, Surabaya",
+    "job": "Programmer Rust",
+    "reason": "Saya tertarik dengan performa tinggi dan keamanan Golang dalam pengembangan perangkat lunak."
+  },
+  {
+    "id": 11,
+    "name": "Kartika",
+    "address": "Jalan Microservice 888, Jakarta",
+    "job": "Programmer TypeScript",
+    "reason": "Saya ingin mengintegrasikan Golang dalam alur kerja pengembangan DevOps."
+  },
+  {
+    "id": 12,
+    "name": "Lia",
+    "address": "Jalan API 999, Bandung",
+    "job": "Programmer Scala",
+    "reason": "Saya melihat potensi besar Golang dalam pengembangan aplikasi berbasis data besar."
+  },
+  {
+    "id": 13,
+    "name": "Mega",
+    "address": "Jalan Koding 1010, Yogyakarta",
+    "job": "Programmer Perl",
+    "reason": "Saya ingin menggunakan Golang untuk mengembangkan aplikasi berkinerja tinggi."
+  },
+  {
+    "id": 14,
+    "name": "Nanda",
+    "address": "Jalan Microservices 1111, Semarang",
+    "job": "Programmer Ruby",
+    "reason": "Saya tertarik dengan komunitas pengembangan Golang yang aktif."
+  },
+  {
+    "id": 15,
+    "name": "Oscar",
+    "address": "Jalan Frontend 1212, Surabaya",
+    "job": "Programmer JavaScript",
+    "reason": "Saya ingin menguasai Golang untuk mengembangkan antarmuka pengguna yang responsif."
+  },
+  {
+    "id": 16,
+    "name": "Putri",
+    "address": "Jalan Backend 1313, Jakarta",
+    "job": "Programmer Java",
+    "reason": "Saya yakin Golang akan membantu dalam pengembangan aplikasi berbasis mikroservis."
+  },
+  {
+    "id": 17,
+    "name": "Qori",
+    "address": "Jalan Cloud 1414, Bandung",
+    "job": "Programmer Python",
+    "reason": "Saya ingin mendapatkan pengetahuan tentang Golang untuk pengembangan aplikasi cloud."
+  },
+  {
+    "id": 18,
+    "name": "Rama",
+    "address": "Jalan API 1515, Makassar",
+    "job": "Programmer PHP",
+    "reason": "Saya tertarik memahami penggunaan Golang dalam pengembangan aplikasi web yang efisien."
+  },
+  {
+    "id": 19,
+    "name": "Sinta",
+    "address": "Jalan DevOps 1616, Yogyakarta",
+    "job": "Programmer C++",
+    "reason": "Saya melihat Golang sebagai bahasa yang ideal untuk pengembangan perangkat lunak sistem."
+  },
+  {
+    "id": 20,
+    "name": "Tono",
+    "address": "Jalan Kode 1717, Medan",
+    "job": "Programmer Swift",
+    "reason": "Saya tertarik dengan kecepatan Golang dalam pengembangan aplikasi mobile."
+  },
+  {
+    "id": 21,
+    "name": "Umi",
+    "address": "Jalan Teknologi 1818, Semarang",
+    "job": "Programmer C#",
+    "reason": "Saya ingin memanfaatkan Golang untuk pengembangan perangkat lunak desktop yang handal."
+  },
+  {
+    "id": 22,
+    "name": "Vito",
+    "address": "Jalan Backend 1919, Surabaya",
+    "job": "Programmer Kotlin",
+    "reason": "Saya ingin menggunakan fleksibilitas Golang dalam pengembangan aplikasi lintas platform."
+  },
+  {
+    "id": 23,
+    "name": "Wulan",
+    "address": "Jalan DevOps 2020, Jakarta",
+    "job": "Programmer Rust",
+    "reason": "Saya tertarik dengan keamanan dan performa tinggi Golang dalam pengembangan perangkat lunak sistem."
+  },
+  {
+    "id": 24,
+    "name": "Xena",
+    "address": "Jalan Data 2121, Bandung",
+    "job": "Programmer TypeScript",
+    "reason": "Saya ingin memanfaatkan Golang dalam alur kerja pengembangan modern."
+  },
+  {
+    "id": 25,
+    "name": "Yogi",
+    "address": "Jalan API 2222, Makassar",
+    "job": "Programmer Scala",
+    "reason": "Saya melihat potensi besar Golang dalam pengembangan aplikasi berbasis data besar."
+  },
+  {
+    "id": 26,
+    "name": "Zara",
+    "address": "Jalan Koding 2323, Yogyakarta",
+    "job": "Programmer Perl",
+    "reason": "Saya ingin memanfaatkan Golang untuk pengembangan aplikasi berkinerja tinggi."
+  },
+  {
+    "id": 27,
+    "name": "Abdi",
+    "address": "Jalan Microservices 2424, Semarang",
+    "job": "Programmer Ruby",
+    "reason": "Saya tertarik dengan komunitas pengembangan Golang yang aktif."
+  },
+  {
+    "id": 28,
+    "name": "Bella",
+    "address": "Jalan Frontend 2525, Surabaya",
+    "job": "Programmer JavaScript",
+    "reason": "Saya ingin menguasai Golang untuk mengembangkan antarmuka pengguna yang responsif."
+  },
+  {
+    "id": 29,
+    "name": "Cakra",
+    "address": "Jalan Backend 2626, Jakarta",
+    "job": "Programmer Java",
+    "reason": "Saya yakin Golang akan membantu dalam pengembangan aplikasi berbasis mikroservis."
+  },
+  {
+    "id": 30,
+    "name": "Dinda",
+    "address": "Jalan Cloud 2727, Bandung",
+    "job": "Programmer Python",
+    "reason": "Saya ingin mendapatkan pengetahuan tentang Golang untuk pengembangan aplikasi cloud."
+  },
+  {
+    "id": 31,
+    "name": "Eros",
+    "address": "Jalan API 2828, Makassar",
+    "job": "Programmer PHP",
+    "reason": "Saya tertarik memahami penggunaan Golang dalam pengembangan aplikasi web yang efisien."
+  },
+  {
+    "id": 32,
+    "name": "Fauzi",
+    "address": "Jalan DevOps 2929, Yogyakarta",
+    "job": "Programmer C++",
+    "reason": "Saya melihat Golang sebagai bahasa yang ideal untuk pengembangan perangkat lunak sistem."
+  },
+  {
+    "id": 33,
+    "name": "Gina",
+    "address": "Jalan Kode 3030, Medan",
+    "job": "Programmer Swift",
+    "reason": "Saya tertarik dengan kecepatan Golang dalam pengembangan aplikasi mobile."
+  },
+  {
+    "id": 34,
+    "name": "Hadi",
+    "address": "Jalan Teknologi 3131, Semarang",
+    "job": "Programmer C#",
+    "reason": "Saya ingin memanfaatkan Golang untuk pengembangan perangkat lunak desktop yang handal."
+  },
+  {
+    "id": 35,
+    "name": "Ika",
+    "address": "Jalan Backend 3232, Surabaya",
+    "job": "Programmer Kotlin",
+    "reason": "Saya ingin menggunakan fleksibilitas Golang dalam pengembangan aplikasi lintas platform."
+  },
+  {
+    "id": 36,
+    "name": "Jaka",
+    "address": "Jalan DevOps 3333, Jakarta",
+    "job": "Programmer Rust",
+    "reason": "Saya tertarik dengan keamanan dan performa tinggi Golang dalam pengembangan perangkat lunak sistem."
+  },
+  {
+    "id": 37,
+    "name": "Kiki",
+    "address": "Jalan Data 3434, Bandung",
+    "job": "Programmer TypeScript",
+    "reason": "Saya ingin memanfaatkan Golang dalam alur kerja pengembangan modern."
+  },
+  {
+    "id": 38,
+    "name": "Lucky",
+    "address": "Jalan API 3535, Makassar",
+    "job": "Programmer Scala",
+    "reason": "Saya melihat potensi besar Golang dalam pengembangan aplikasi berbasis data besar."
+  },
+  {
+    "id": 39,
+    "name": "Mira",
+    "address": "Jalan Koding 3636, Yogyakarta",
+    "job": "Programmer Perl",
+    "reason": "Saya ingin memanfaatkan Golang untuk pengembangan aplikasi berkinerja tinggi."
+  },
+  {
+    "id": 40,
+    "name": "Nana",
+    "address": "Jalan Microservices 3737, Semarang",
+    "job": "Programmer Ruby",
+    "reason": "Saya tertarik dengan komunitas pengembangan Golang yang aktif."
+  },
+  {
+    "id": 41,
+    "name": "Opik",
+    "address": "Jalan Frontend 3838, Surabaya",
+    "job": "Programmer JavaScript",
+    "reason": "Saya ingin menguasai Golang untuk mengembangkan antarmuka pengguna yang responsif."
+  },
+  {
+    "id": 42,
+    "name": "Puput",
+    "address": "Jalan Backend 3939, Jakarta",
+    "job": "Programmer Java",
+    "reason": "Saya yakin Golang akan membantu dalam pengembangan aplikasi berbasis mikroservis."
+  },
+  {
+    "id": 43,
+    "name": "Roni",
+    "address": "Jalan Cloud 4040, Bandung",
+    "job": "Programmer Python",
+    "reason": "Saya ingin mendapatkan pengetahuan tentang Golang untuk pengembangan aplikasi cloud."
+  },
+  {
+    "id": 44,
+    "name": "Sasa",
+    "address": "Jalan API 4141, Makassar",
+    "job": "Programmer PHP",
+    "reason": "Saya tertarik memahami penggunaan Golang dalam pengembangan aplikasi web yang efisien."
+  },
+  {
+    "id": 45,
+    "name": "Tito",
+    "address": "Jalan DevOps 4242, Yogyakarta",
+    "job": "Programmer C++",
+    "reason": "Saya melihat Golang sebagai bahasa yang ideal untuk pengembangan perangkat lunak sistem."
+  },
+  {
+    "id": 46,
+    "name": "Uci",
+    "address": "Jalan Kode 4343, Medan",
+    "job": "Programmer Swift",
+    "reason": "Saya tertarik dengan kecepatan Golang dalam pengembangan aplikasi mobile."
+  },
+  {
+    "id": 47,
+    "name": "Vina",
+    "address": "Jalan Teknologi 4444, Semarang",
+    "job": "Programmer C#",
+    "reason": "Saya ingin memanfaatkan Golang untuk pengembangan perangkat lunak desktop yang handal."
+  },
+  {
+    "id": 48,
+    "name": "Wira",
+    "address": "Jalan Backend 4545, Surabaya",
+    "job": "Programmer Kotlin",
+    "reason": "Saya ingin menggunakan fleksibilitas Golang dalam pengembangan aplikasi lintas platform."
+  },
+  {
+    "id": 49,
+    "name": "Xena",
+    "address": "Jalan DevOps 4646, Jakarta",
+    "job": "Programmer Rust",
+    "reason": "Saya tertarik dengan keamanan dan performa tinggi Golang dalam pengembangan perangkat lunak sistem."
+  },
+  {
+    "id": 50,
+    "name": "Yogi",
+    "address": "Jalan Data 4747, Bandung",
+    "job": "Programmer TypeScript",
+    "reason": "Saya ingin memanfaatkan Golang dalam alur kerja pengembangan modern."
+  }
+]
